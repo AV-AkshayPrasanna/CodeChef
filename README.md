@@ -1,4 +1,4 @@
-# CodeChef Solutions — @AV-AkshayPrasanna
+# CodeChef — @AV-AkshayPrasanna
 
 My solutions to problems from **CodeChef**, focused on competitive programming, Data Structures & Algorithms, and improving problem-solving skills. 🚀
 
