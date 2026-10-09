@@ -1,8 +1,5 @@
-// Problem: Print Right Angled Triangle
-// Platform: codechef
-// Language: unknown
-// Verdict: Accepted
-// URL: https://www.codechef.com/viewsolution/1372234807
-// Solved on: 2026-10-09T18:56:41.487Z
-
-// source not captured automatically - open the solution page and copy it manually
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")
