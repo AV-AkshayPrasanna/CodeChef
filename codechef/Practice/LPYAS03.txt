@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/python/LPPYAS01/problems/LPYAS03
-// Solved on: 2026-11-25T12:40:07.206Z
+// Solved on: 2026-11-26T12:30:20.925Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
